@@ -52,8 +52,8 @@ export default async function handler(req, res) {
     }
 
     // CEK ENVIRONMENT VARIABLES
-    const BOT_TOKEN = process.env.BOT_TOKEN;
-    const OWNER_ID = process.env.OWNER_ID;
+    const BOT_TOKEN = 8528597137:AAFgqjbwMLeMj4jAFbn73cI2RRWxtsxzQPQ;
+    const OWNER_ID = 7465739067;
 
     console.log('🔐 Cek Environment Variables:', {
       BOT_TOKEN_SET: !!BOT_TOKEN,
